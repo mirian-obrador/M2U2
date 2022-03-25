@@ -1,0 +1,61 @@
+body {
+  background-color: rgb(238, 228, 203);
+}
+.img-fluid {
+  width: 30%;
+  height: 50%;
+  margin: 10px auto;
+  display: block;
+}
+h2 {
+  font-family: "Lucida Sans";
+  color: crimson;
+  font-size: medium;
+  font-style: italic;
+  text-align-last: center;
+}
+.accordion-button {
+  background-color: rgb(228, 101, 108);
+  font-family: "Lucida Sans";
+  font-style: italic;
+}
+#accordionExample {
+  color: crimson;
+}
+.card {
+  max-width: 350px;
+  max-height: 550px;
+}
+.Seguir-leyendo {
+  color: crimson;
+}
+.form-label {
+  color: crimson;
+  font-style: oblique;
+}
+#derecho {
+  position: absolute;
+  bottom: 210px;
+  right: 410px;
+  display: block;
+  width: 530px;
+  height: 200px;
+}
+.btn-outline-danger {
+  background-color: white;
+}
+#enviar {
+  position: absolute;
+  bottom: 10px;
+  right: 40px;
+  display: block;
+  width: 50px;
+  height: 20px;
+}
+.comentarios {
+  font-family: "Lucida Sans";
+  color: crimson;
+  font-size: larger;
+  font-style: italic;
+  text-align-last: left;
+}
